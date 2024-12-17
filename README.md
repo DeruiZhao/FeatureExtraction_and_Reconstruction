@@ -8,7 +8,7 @@ The Python code consists of four main components: topology optimisation using th
 
 ### ✂️ Topology Optimisation Using BESO Method
 
-The topology optimisation is performed using the BESO method. The implementation is adapted from the MATLAB code developed by Huang and Xie [@huangEvolutionaryTopologyOptimization2010] at RMIT and translated into Python. The output file, `EOutput.txt`, records the Young’s modulus values for each finite element, which are used as input for the subsequent stages.
+The topology optimisation is performed using the BESO method. The implementation is adapted from the MATLAB code developed by Huang and Xie at RMIT and translated into Python. The output file, `EOutput.txt`, records the Young’s modulus values for each finite element, which are used as input for the subsequent stages.
 
 ### 🎗️ Feature Extraction Based on Principal Stress Trajectories
 
